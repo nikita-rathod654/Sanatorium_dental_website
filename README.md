@@ -34,7 +34,7 @@ project-root/
 
 ## 2. Rubric Evaluation & Implementation Details
 
-### A. Visual Hierarchy and Responsive Design (25 Marks)
+### A. Visual Hierarchy and Responsive Design 
 * **Brand Identity & Color Harmony:**
   * **Clinic Orange (`#e15328`):** Applied to badges, callouts, active links, counter bar, and CTAs.
   * **Ocean Teal (`#0284c7`):** Applied to the emergency callout card and customer testimonial section.
@@ -47,7 +47,7 @@ project-root/
 
 ---
 
-### B. Section Completeness and Navigation (20 Marks)
+### B. Section Completeness and Navigation
 
 1. **Top Contact & Emergency Header:**
    * Working phone number (`+1 (800) 264-7890`), office hours, and physical clinic address.
@@ -86,7 +86,7 @@ project-root/
 
 ---
 
-### C. Contact Experience and Usability (15 Marks)
+### C. Contact Experience and Usability 
 * **Real-Time Client Validation:**
   * Checks required fields on input blur and on submit.
   * Validates standard email structure (`name@domain.tld`).
@@ -99,7 +99,7 @@ project-root/
 
 ---
 
-### D. Accessibility & Visual Polish (10 Marks)
+### D. Accessibility & Visual Polish 
 * Semantic HTML5 markup (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`).
 * ARIA attributes (`aria-label`, `aria-expanded`, `role="alert"`).
 * High color contrast conforming to WCAG 2.1 AA standards.
